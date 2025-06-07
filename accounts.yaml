@@ -1,0 +1,13 @@
+# Zone Index Account
+AzWNynNptzyH5TuATZ8jj3rsnLS6Wp4ABHpT2sXPZXZd:
+  balance: 1000000000
+  owner: "zpgQUDf86gkFLUFCLCNDxa3gmTYMo7YF7pQc8wMRjL2"
+  data: "AQAAAAEAAH9wYgAAAAAAAE1BSU4AdLcB"
+  executable: false
+
+# Zone Validators Account
+DkFVZZq9RVnKc6sCBAtTzRGzusZtxsFZNxMKUtWYcvFF:
+  balance: 1000000000
+  owner: "zpgQUDf86gkFLUFCLCNDxa3gmTYMo7YF7pQc8wMRjL2"
+  data: "AQAAAAEAAAAAAAAATUFJTgEAAAAcwLfUimHqYO+M5q/VOAfsQIvz+oX0CxUTYP4ULRsmyA=="
+  executable: false

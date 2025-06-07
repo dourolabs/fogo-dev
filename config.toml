@@ -1,0 +1,29 @@
+user = "ubuntu"
+name = "fogo-dev"
+
+[development]
+bootstrap = true
+
+[ledger]
+path = "/home/ubuntu/fogo-dev/ledger"
+
+[consensus]
+identity_path = "/home/ubuntu/fogo-dev/keys/identity.json"
+vote_account_path = "/home/ubuntu/fogo-dev/keys/vote.json"
+wait_for_vote_to_start_leader = false
+expected_shred_version = 31738
+expected_genesis_hash = "c58C8kyvNu4b2Kovk8JVvCH7KHBJaJGchQryaH86y8c"
+
+[snapshots]
+full_snapshot_interval_slots = 15000
+
+[log]
+level_logfile = "INFO"
+path = "-"
+
+[rpc]
+port = 8899
+full_api = true
+only_known = false
+transaction_history = true
+extended_tx_metadata_storage = true
