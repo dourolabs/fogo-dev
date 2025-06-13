@@ -1,5 +1,7 @@
 # Fogo Dev
 
+See https://docs.fogo.io/running-a-node.html for more details on running a Fogo node.
+
 ## Usage
 
 Install a recent version of Cargo and Solana CLI tooling, then:
